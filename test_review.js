@@ -3,11 +3,17 @@ Novemeber 23, 2016
 Title: Javascript test review
 */
 
+//Variables
+
 var knight = ('Arthur');
 var maiden = ('Jane');
 var monster = ('Dragon');
 
+//Arrays
+
 var weaponChest = ('Mace', "Sorcerer's Stone", 'Excalibur');
+
+//Object Hero
 
 var wizard = ('Merlin');
 var weapon = ('Mace');
